@@ -1,7 +1,8 @@
+![Profile Views](https://komarev.com/ghpvc/?username=dongarayaswanth&label=Profile%20Views&color=0e75b6&style=flat)
+
 # 💫 About Me:
 Hi, I’m Yaswanth 👋<br>🔹 Engineer passionate about building impactful software.<br>🔹 Exploring Full Stack Development, Python, and AI/ML.<br>🔹 Learning Flutter to craft beautiful mobile apps.<br>🔹 Always curious—whether it’s DSA puzzles, APIs, or automation.<br>🔹 Love turning coffee ☕ into clean, efficient code.<br>🔹 Believe in “learning by building” – every project is a stepping stone.<br>💡 Currently:<br>Sharpening problem-solving skills for coding challenges.<br>✨ Beyond code:<br>I enjoy solving logical puzzles, exploring tech trends, and sharing knowledge.  
 
-![Profile Views](https://komarev.com/ghpvc/?username=dongarayaswanth&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61580224258826) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/yaswanthdongara?igsh=c2R2dDltc2dxbnBy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yaswanth-dongara-746266338/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yaswanthdongara12@gmail.com) 
