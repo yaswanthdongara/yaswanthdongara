@@ -1,5 +1,5 @@
 <!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=dongarayaswanth&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=yaswanthdongara&label=Profile%20Views&color=0e75b6&style=flat)
 
 <h1 align="center">Hi 👋, I'm Yaswanth</h1>
 <h3 align="center">Engineer • Developer • Problem Solver</h3>
@@ -58,8 +58,8 @@ I enjoy tech exploration, solving logical puzzles, and sharing knowledge.
 ## 📈 Profile Stats  
 <p align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=dongarayaswanth&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongarayaswanth&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yaswanthdongara&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthdongara&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </p>
 
@@ -67,13 +67,13 @@ I enjoy tech exploration, solving logical puzzles, and sharing knowledge.
 
 ## 🔥 Contributions  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dongarayaswanth&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanthdongara&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 <p align="center">
   
-[![](https://visitcount.itsvg.in/api?id=dongarayaswanth&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=yaswanthdongara&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </p>
