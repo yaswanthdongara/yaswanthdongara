@@ -8,7 +8,7 @@
 
 ## 💫 About Me  
 🔹 Passionate Engineer who loves creating meaningful software.<br>
-🔹 Exploring **Full Stack Development**, **Python**, and **Java**.<br>
+🔹 Exploring **Full Stack Development**, **Python**.<br>
 🔹 Curious mind—DSA puzzles, system logic, automation… they all excite me.<br>
 🔹 Firm believer in **“learning by building”** — every project is a new adventure.  
 
