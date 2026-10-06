@@ -47,6 +47,7 @@
 <p align="center">
   
 [![](https://visitcount.itsvg.in/api?id=yaswanthdongara&icon=0&color=0)](https://visitcount.itsvg.in)
-![Profile Views](https://img.shields.io/badge/Profile%20Views-0-0e75b6?style=flat)
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=yaswanthdongara&label=Profile%20Views&color=0e75b6&style=flat)
 
 </p>
